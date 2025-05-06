@@ -1,101 +1,249 @@
-When was the last time you lied?
-When was the last time you cried?
-What's your biggest fear?
-What's your biggest fantasy?
-Who's the last person you searched on Instagram?
-What's the strangest thing you've ever eaten?
-What's your relationship dealbreaker?
-What's a secret you've never told anyone?
-Do you have a hidden talent?
-Who was your first celebrity crush?
-Have you ever cheated in an exam?
-If you were going to be on a reality TV show, which would it be?
-What's your biggest insecurity?
-What's the biggest mistake you've ever made?
-What's one thing you hate people knowing about you?
-What's the worst thing anyone's ever done to you?
-What's the best thing anyone's ever done for you?
-What's your worst habit?
-What's the biggest misconception about you?
-What's one thing you wish people knew about you?
-Why did your last relationship break down?
-What's the best piece of advice you've been given?
-What's the most you've spent on a night out?
-Have you ever returned or re-gifted a present?
-Do you have a favourite sibling?
-What have you purchased that's been the biggest waste of money?
-How would you rate your looks on a scale of 1 to 10?
-What celebrity do you look up to?
-If you could be one celebrity for a day, who would it be?
-If you could do any job in the world, what would it be?
-What's your dream life?
-What do you value the most - money, fame, success, friends, family, etc?
-What’s your biggest red flag?
-If you had to marry someone in this room, who would it be and why?
-What’s one movie you’re embarrassed to admit you enjoy?
-What music artist do you secretly think is overrated?
-What’s your most controversial political opinion?
-Name something you can’t live without
-Where do you think you’ll be in five years time?
-What's on your 'On Repeat' Spotify playlist right now?
-How well do you think you’d do in a horror movie?
-How many stuffed animals do you own?
-Did you ever get in trouble at school? And if so what for?
-Do you have any phobias?
-Who was the last person you kissed?
-If you could marry any celebrity, who would it be and why?
-What is your love language?
-Who in your phone book would you least like to call right now?
-Who is your 'The One That Got Away'?
-Do you have a celebrity lookalike?
-What are your five most-watched films?
-What's the drunkest you've ever been?
-What's the most embarrassing thing you've ever done?
-What's the most disgusting thing you've ever done?
-What's the most embarrassing thing you've done in a taxi?
-What's the silliest reason you've left a club early?
-Tell me about your first kiss
-What was the most inappropriate time you farted?
-What's something you really hope your family never finds out about?
-Who do you think is the worst-dressed person in this room?
-Have you ever practised kissing in a mirror?
-What's your worst fashion moment?
-What's your biggest pet peeve?
-What TV character do you relate to the most?
-Who do you like best - Kris, Kourtney, Kim, Khloé, Kendall or Kylie?
-Have you ever dined and dashed?
-Have you ever had sex on the beach?
-Would you like to be a member of the mile-high club?
-Would you consider going on Love Island?
-Have you ever lied about where you've been to a partner?
-What's the worst meal you've ever cooked?
-Have you ever done a strip tease for a partner?
-If you could pick one other player to take with you to a deserted island, who would it be?
-Do you have any beauty regrets?
-If you suddenly had a million pounds, how would you spend it?
-Who in the group would you want by your side in a zombie apocalypse?
-Which fashion trend are you embarrassed to admit you’ve taken part in?
-Have you ever had an imaginary friend?
-How often do you wash your sheets?
-Do you believe in aliens?
-When was the last time you helped a stranger?
-Where's the weirdest place you peed?
-Have you ever peed in the shower?
-What's the strangest dream you've had?
-Where's the weirdest place you've had sex?
-What's one thing you only do when you're alone?
-What's the strangest rumour you've heard about yourself?
-What's your favourite gross food combination?
-What's the weirdest lie you've ever told?
-Do you have any fake social media accounts?
-Have you ever peed in the pool?
-What gives you the ick?
-What do you do that could give someone else the ick?
-What's the weirdest thing you've ever eaten?
-What is a weird food that you love?
-What was your biggest childhood fear?
-Did you ever have a crush on a teacher at school?
-What’s the weirdest thing you’re obsessed with on TikTok?
-What’s the most surprising thing your bag right now?
-Who is your weird celebrity crush?
-What’s the weirdest habit you have when you’re alone?
+What's the most embarrassing thing that's ever happened to you?
+Have you ever had a crush on someone in this room/server?
+What’s the worst lie you've ever told and gotten away with?
+What’s something you’ve never told anyone because you were too embarrassed?
+Have you ever secretly read someone else's messages or texts?
+What’s one thing you would never want your parents to find out about you?
+Have you ever accidentally sent a message to the wrong person? What did it say?
+What’s the most awkward thing you've done in front of someone you liked?
+If you had to delete one app from your phone, which one would it be?
+What’s something you’ve done that you hope no one ever finds out about?
+If you could switch lives with anyone in this server for a day, who would it be and why?
+Have you ever pretended to like something just to fit in?
+What’s your most irrational fear?
+What’s the most childish thing you still do?
+What’s one secret talent or skill you have that no one knows about?
+What’s your most unusual habit that others might find weird?
+Have you ever lied about your age?
+What’s the worst haircut you've ever had?
+Have you ever been caught doing something you weren’t supposed to? What happened?
+If you had to confess your biggest pet peeve, what would it be?
+What’s the worst fashion trend you’ve ever followed?
+If you could live anywhere in the world, where would it be and why?
+What’s the biggest argument you've ever had, and what was it about?
+Have you ever told a joke that no one laughed at? What was it?
+If you could change one thing about yourself, what would it be?
+What’s the most recent thing you Googled?
+Have you ever accidentally texted the wrong person something embarrassing?
+What’s something you’ve always wanted to do but never had the chance to?
+Have you ever had an imaginary friend? What were they like?
+What’s the most ridiculous thing you’ve spent money on?
+What’s something you can’t live without?
+If you were stuck on a deserted island, what three things would you want to have with you?
+What’s the most awkward moment you've had with someone in this group?
+Have you ever fallen asleep in public? Where?
+What’s the most embarrassing thing you’ve done to get someone’s attention?
+Have you ever sung in the shower and thought you sounded amazing?
+If you could pick any superpower, what would it be and why?
+What’s your biggest pet peeve when it comes to texting?
+Have you ever blamed someone else for something you did?
+What’s your most embarrassing childhood memory?
+If you could be famous for one thing, what would it be?
+What’s something you did as a kid that you still do today?
+What’s the most trouble you’ve ever gotten into?
+Have you ever been caught daydreaming about something embarrassing?
+What’s the weirdest dream you've ever had?
+What’s something you’ve done that you thought you’d never do?
+Have you ever had a wardrobe malfunction? What happened?
+What’s one thing you’re really good at, but you’re too shy to show off?
+If you could only eat one food for the rest of your life, what would it be?
+What’s the most random thing you’ve Googled recently?
+Have you ever been caught cheating on a test or assignment?
+What’s the most awkward thing you’ve done at a party?
+What’s your biggest fear in life?
+If you could switch lives with someone for a day, who would it be?
+Have you ever snooped through someone else’s things? What did you find?
+What’s one thing you do when no one is watching?
+Have you ever been embarrassed by your parents in public?
+What’s something you’ve lied about recently?
+What’s the strangest food you’ve ever tried and liked?
+If you could meet anyone, dead or alive, who would it be and why?
+What’s the worst fashion mistake you’ve made?
+If you had to choose, would you rather be rich or famous?
+Have you ever accidentally walked in on someone in the bathroom?
+What’s something you’re afraid of but never admit to others?
+If you could change your name to anything, what would it be?
+What’s the most embarrassing thing you’ve done for attention?
+What’s your most awkward encounter with a stranger?
+What’s something you’ve always wanted to try but haven’t yet?
+Have you ever lied to get out of trouble? What happened?
+What’s the worst date you’ve ever been on?
+If you could time travel, where would you go and why?
+What’s something you would never do, no matter the amount of money offered?
+What’s your least favorite chore to do at home?
+Have you ever had a crush on someone you shouldn’t have?
+What’s something you’ve done that’s left you feeling guilty?
+If you could have any animal as a pet, what would it be?
+What’s the biggest misconception people have about you?
+What’s the best prank you’ve ever pulled on someone?
+Have you ever regretted sending a text message or email?
+What’s the longest you’ve gone without washing your hair?
+What’s the weirdest thing you believed as a child?
+What’s the most embarrassing thing you’ve done to impress someone?
+Have you ever embarrassed yourself in front of a crush? What happened?
+What’s the worst haircut you've ever given yourself?
+Have you ever pretended to be busy when you weren’t?
+What’s the most ridiculous thing you've ever said in a conversation?
+What’s one thing you wish you could change about your childhood?
+Have you ever ruined a surprise?
+What’s the most disgusting habit you’ve ever had?
+Have you ever been caught talking to yourself?
+What’s something you’ve done that you thought you’d never do?
+If you could get rid of one habit, what would it be?
+What’s your most embarrassing childhood nickname?
+What’s the worst prank someone has pulled on you?
+Have you ever lied to avoid going somewhere or doing something?
+What’s something you never want to experience again?
+If you could have dinner with any celebrity, who would it be?
+What’s the most embarrassing thing that happened to you at school?
+Have you ever walked out of a movie theater because the movie was so bad?
+What’s the funniest thing you’ve seen happen at a wedding?
+What’s something you’ve done that you thought was normal but others found weird?
+Have you ever tried to do something cool but ended up failing?
+What’s the most embarrassing thing you've posted online?
+Have you ever been caught doing something you weren't supposed to on social media?
+What’s the worst prank you’ve ever pulled?
+What’s something you were scared to do but ended up enjoying?
+What’s something you’ve done that you wish you could take back?
+Have you ever taken a weird picture or selfie in public? What was the reason?
+What’s the most embarrassing thing you’ve done on a first date?
+If you could have one superpower, what would it be?
+Have you ever been caught cheating in a game? What was the game?
+What’s the funniest thing you’ve seen in a group chat?
+What’s the worst advice you’ve ever given?
+What’s the strangest talent you have that no one knows about?
+Have you ever made a prank call? What was the result?
+What’s the worst thing you’ve done to your siblings?
+If you had to choose, would you rather be invisible or be able to read minds?
+What’s something you’re really bad at but still enjoy doing?
+Have you ever tried to impress someone and failed miserably?
+What’s the most awkward encounter you’ve had with a friend’s family?
+What’s the worst excuse you've used to get out of something?
+What’s the most surprising thing you've ever learned about someone you know?
+What’s the most ridiculous thing you’ve believed as a child?
+Have you ever sent a text message to the wrong person? What did it say?
+What’s something you secretly find funny but are too embarrassed to admit?
+What’s your most embarrassing cooking disaster?
+Have you ever embarrassed yourself in front of a boss or authority figure?
+What’s the most cringe-worthy thing you've said during a meeting or interview?
+If you could delete one thing from your past, what would it be?
+What’s the weirdest thing you’ve found in your bedroom?
+Have you ever had a crush on a teacher or someone much older than you?
+What’s your most embarrassing moment in front of your crush?
+What’s one thing you’ve done that you’re not proud of but it was funny at the time?
+What’s the most ridiculous thing you’ve gotten upset about?
+What’s the biggest mistake you’ve ever made at work?
+What’s something you’ve tried and failed at miserably?
+What’s the craziest thing you’ve done on a dare?
+Have you ever played a prank that went too far?
+What’s the most embarrassing thing you’ve done at school?
+If you could have one wish granted, what would it be?
+What’s something you’ve always wanted to do but never had the courage to try?
+What’s the most bizarre thing you've done while sleepwalking?
+What’s the weirdest thing you’ve done to get someone’s attention?
+What’s the best joke you've ever heard?
+If you could instantly become an expert in any field, what would it be?
+What’s the most embarrassing way you’ve injured yourself?
+What’s the silliest thing you’ve done just to entertain yourself?
+Have you ever had an embarrassing wardrobe malfunction?
+What’s the most awkward thing you’ve done on a video call?
+What’s the most ridiculous thing you've done to get out of a boring situation?
+Have you ever had a crush on a fictional character? Who?
+What’s the funniest thing you’ve ever done in public that you’ll never forget?
+Have you ever sent a text to the wrong person and it ended up being super embarrassing?
+What’s something you do when no one is around that you’re too embarrassed to admit?
+What’s the worst haircut you’ve ever seen on someone else?
+What’s something you’ve lied about recently, even if it was small?
+If you could change one thing about your personality, what would it be?
+What’s the silliest thing you’ve been upset about?
+What’s something you’ve done as a kid that you still secretly do sometimes?
+What’s the worst gift you’ve ever received?
+Have you ever used a fake identity online? What for?
+Have you ever made an awkward confession to someone? How did they respond?
+What’s the most cringe-worthy thing you’ve said to impress someone?
+What’s the weirdest habit you’ve had that others don’t know about?
+What’s something that you can’t stand, but others seem to love?
+If you could erase one mistake from your life, what would it be?
+Have you ever had a secret that you were dying to tell but couldn’t?
+What’s something about yourself that you’ve never told anyone?
+Have you ever been caught in a lie and had to scramble to cover it up?
+What’s the most embarrassing thing you’ve done in front of your crush?
+What’s something you’re afraid of, but you think others might laugh at you for it?
+What’s something that instantly annoys you, no matter who does it?
+Have you ever worn something just because it was trendy but hated it?
+If you had to choose between being famous and rich, which would you pick and why?
+What’s the weirdest thing you believed as a child?
+What’s the most awkward thing that’s ever happened during a family gathering?
+What’s something that you can’t go a day without doing?
+What’s the most embarrassing text you’ve sent to someone?
+Have you ever done something you said you’d never do? What was it?
+What’s your biggest fear that you haven’t shared with anyone?
+What’s something that you pretend to like but actually can’t stand?
+What’s the most ridiculous thing you’ve argued about with someone?
+What’s something you’ve said to make someone laugh, but it didn’t work?
+What’s your most embarrassing moment with a teacher or professor?
+Have you ever had a crush on someone who didn’t even know you existed?
+Have you ever tried to act cool and totally failed? What happened?
+What’s the most awkward situation you’ve found yourself in at a party?
+What’s the worst thing you’ve ever done when you were mad?
+What’s something you do when you’re nervous that you can’t stop doing?
+What’s the funniest way you’ve gotten out of trouble?
+Have you ever hidden something from your parents or guardians? What was it?
+What’s the most embarrassing thing you’ve done in front of your friends?
+What’s the longest you’ve ever gone without brushing your teeth (be honest!)?
+Have you ever embarrassed yourself in front of someone you didn’t know well?
+What’s something you’ve done that you’ve told others to never do?
+What’s something you've done that made you feel like a child again?
+Have you ever been on a really bad date? What happened?
+What’s the most awkward thing you’ve said to someone you just met?
+What’s something that made you lose your cool in public?
+What’s your biggest insecurity that no one knows about?
+Have you ever ruined a surprise for someone? How did it go down?
+What’s the most embarrassing thing you’ve ever said in a meeting or class?
+What’s something you were totally convinced was true, but later found out was false?
+What’s the craziest thing you’ve done while sleepwalking or sleep-talking?
+What’s the weirdest way you’ve hurt yourself?
+Have you ever tried to impress someone and it went completely wrong?
+What’s the most embarrassing story your parents have told about you?
+Have you ever had a crush on someone you worked with? What did you do about it?
+What’s the most awkward thing that’s ever happened while you were on a phone call?
+What’s a talent you’re really good at, but you never show anyone?
+What’s the most embarrassing thing you’ve done because you were trying to be funny?
+What’s one thing you’ve done that you thought was cool but now feel embarrassed about?
+Have you ever regretted something you said to someone? What did you say?
+What’s the most ridiculous lie you’ve ever told to avoid doing something?
+Have you ever pretended to be sick to get out of something?
+What’s the weirdest dream you’ve ever had, and can you remember it in detail?
+What’s one thing you don’t like about your best friend?
+What’s something about a group of friends that bothers you, but you never say anything about?
+Have you ever had an embarrassing experience in a public restroom?
+What’s the strangest thing you've ever worn in public?
+Have you ever been caught singing or dancing in the mirror?
+What’s something you’ve done that you thought was funny, but it was totally awkward?
+Have you ever said something to someone just to make them laugh, and it totally backfired?
+What’s the most embarrassing thing you’ve done on a vacation or trip?
+What’s something you’re really passionate about, but you’re too embarrassed to talk about?
+What’s the weirdest talent or skill you have that others find odd?
+What’s the worst first impression you've ever made on someone?
+Have you ever been in a fight or disagreement that you deeply regret?
+What’s the biggest secret you’ve ever kept from your best friend?
+What’s something you do that annoys everyone around you but you can’t stop doing it?
+Have you ever stalked someone online? What did you find?
+What’s the most awkward silence you’ve ever had with someone?
+What’s the strangest thing you've believed in the past, but don’t anymore?
+What’s the worst thing you’ve said to someone in an argument?
+Have you ever lied to someone to get out of something? What was the excuse?
+What’s the most embarrassing thing you've said to your crush?
+What’s a moment where you were completely caught off guard and didn’t know what to do?
+What’s the most awkward situation you’ve been in at a family reunion?
+What’s the weirdest thing you’ve done to try and get someone to notice you?
+What’s something you’ve done that you thought was a great idea at the time but regret now?
+What’s something you’ve done in a video call that made you feel embarrassed?
+What’s the worst fashion trend you ever tried to follow?
+What’s something you really want to do, but you’re too afraid to try?
+What’s the strangest rumor you’ve ever heard about yourself?
+What’s something you’ve done that you thought was funny at the time, but others didn’t?
+What’s something you’ve been caught doing that you didn’t want anyone to see?
+What’s the most embarrassing nickname you've ever had?
+Have you ever been told you looked like a celebrity? Who?
+What’s the worst thing you’ve done to someone and never apologized for?
